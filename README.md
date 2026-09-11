@@ -1,0 +1,2 @@
+# AI-Data-Analyst-Generative-AI-Powered-Data-Analysis-Assistant
+An end-to-end Generative AI application that allows users to upload CSV or Excel datasets and perform automated data analysis. The application uses Python, Pandas, Streamlit, Plotly, and an LLM API via OpenRouter to provide dataset insights, statistical summaries, missing-value analysis, interactive visualizations, and AI-generated Answers.
